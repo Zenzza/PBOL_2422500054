@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b07fe-fdaa-4a2f-9a17-a5e3c3a893c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuan 2 - 11 Maret 2026/Pert2-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pertemuan 2 - 11 Maret 2026/Pert2-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pertemuan 2 - 11 Maret 2026/Pert2-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan 2 - 11 Maret 2026/Pert2-6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pertemuan 2 - 11 Maret 2026/Pert2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan 2 - 11 Maret 2026/Pert2-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,7 @@
     "Python.Pert2-2.executor": "Run",
     "Python.Pert2-4.executor": "Run",
     "Python.Pert2-5.executor": "Run",
+    "Python.Pert2-6.executor": "Run",
     "Python.Pert2.executor": "Run",
     "Python.pert2-3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
