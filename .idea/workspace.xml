@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b07fe-fdaa-4a2f-9a17-a5e3c3a893c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuan 3 - 1 April 2026/Pert3-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuaan 4 - 8 April 2026/Pert 4-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Pert 4-1.executor": "Run",
     "Python.Pert2-2.executor": "Run",
     "Python.Pert2-4.executor": "Run",
     "Python.Pert2-5.executor": "Run",
@@ -47,6 +48,7 @@
     "Python.Pert2.executor": "Run",
     "Python.Pert3-1.executor": "Run",
     "Python.Pert3-2.executor": "Run",
+    "Python.Pert3-3.executor": "Run",
     "Python.pert2-3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
