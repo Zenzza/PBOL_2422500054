@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b07fe-fdaa-4a2f-9a17-a5e3c3a893c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuaan 4 - 8 April 2026/Pert 4-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan 5 - 15 April 2026/Pert 5-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,7 @@
     <setting file="file://$PROJECT_DIR$/Pert2.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -41,6 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Pert 4-1.executor": "Run",
+    "Python.Pert 4-2.executor": "Run",
+    "Python.Pert 5-1.executor": "Run",
     "Python.Pert2-2.executor": "Run",
     "Python.Pert2-4.executor": "Run",
     "Python.Pert2-5.executor": "Run",
@@ -81,5 +83,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
