@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b07fe-fdaa-4a2f-9a17-a5e3c3a893c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuan 5 - 15 April 2026/Pert 5-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan 6 - 22 April 2026/Pert 6-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan 6 - 22 April 2026/Pert 6-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +46,7 @@
     "Python.Pert 5-1.executor": "Run",
     "Python.Pert 5-2.executor": "Run",
     "Python.Pert 5-3.executor": "Run",
+    "Python.Pert 6-1.executor": "Run",
     "Python.Pert2-2.executor": "Run",
     "Python.Pert2-4.executor": "Run",
     "Python.Pert2-5.executor": "Run",
