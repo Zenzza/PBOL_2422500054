@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b07fe-fdaa-4a2f-9a17-a5e3c3a893c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuan 7 -29 Apr 2026/enkripsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan 7 -29 Apr 2026/dekripsi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pertemuan 7 -29 Apr 2026/konfigurasi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan 7 -29 Apr 2026/konfigurasi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritma.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +58,8 @@
     "Python.Pert3-1.executor": "Run",
     "Python.Pert3-2.executor": "Run",
     "Python.Pert3-3.executor": "Run",
+    "Python.dekripsi.executor": "Run",
+    "Python.enkripsi.executor": "Run",
     "Python.pert2-3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
