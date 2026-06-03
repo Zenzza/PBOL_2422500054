@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c09b07fe-fdaa-4a2f-9a17-a5e3c3a893c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pertemuan 11 - 3 Juni 2026/Pert 11-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pertemuan 11 - 3 Juni 2026/Pert 11-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
     "Python.CRUD.executor": "Run",
     "Python.Pert 11-1.executor": "Run",
     "Python.Pert 11-2.executor": "Run",
+    "Python.Pert 11-3.executor": "Run",
     "Python.Pert 4-1.executor": "Run",
     "Python.Pert 4-2.executor": "Run",
     "Python.Pert 5-1.executor": "Run",
